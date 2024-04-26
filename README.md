@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate with you ...
 - 📫 These are my official address...
 - ⚡ Webstie: www.hitmyanmar.com
-- ⚡ Facebook: [hitmyanmar.info@gmail.com](https://www.facebook.com/hornbillit)
-- ⚡ YouTube: [hitmyanmar.info@gmail.com](https://www.youtube.com/@ymsmyanmarprogrammingtutorials)
+- ⚡ Facebook: https://www.facebook.com/hornbillit
+- ⚡ YouTube: https://www.youtube.com/@ymsmyanmarprogrammingtutorials
 - ⚡ Gmail: hitmyanmar.info@gmail.com
 
 <!---
